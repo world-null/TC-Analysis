@@ -7,4 +7,4 @@ Telco Churn Data Analysis explores customer retention trends using Python. It cl
 
 ![Image1](Churn_by_tenure.png)
 ![Image2](Churn_by_Services.png)
-![image3](Churn_of Custome_ by_Contract.png.png)
+![image3](Churn_of_Custome_by_Contract.png.png)
